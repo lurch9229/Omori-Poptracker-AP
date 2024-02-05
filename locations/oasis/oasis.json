@@ -1,0 +1,1393 @@
+[
+    {
+        "name": "Orange Oasis",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Orange Oasis Main - Behind Entrance Arch",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 295,
+                        "y": 1163
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Behind Tree Near Apple",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 172,
+                        "y": 1092
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Giant Apple",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 22,
+                        "y": 1077
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - After Mushroom Behind Cream",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 410,
+                        "y": 1039
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - After Mushroom On Table",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 378,
+                        "y": 1014
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$omoriCut2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Behind Pluto Sign",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 92,
+                        "y": 821
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 65,
+                        "y": 785
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Ricoli Ravioli",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 200,
+                        "y": 790
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Behind Pyramid Tip",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 261,
+                        "y": 681
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Scott",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 205,
+                        "y": 672
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Itchy",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Giant Grapes",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 85,
+                        "y": 670
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Map",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 516,
+                        "y": 587
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Mari South Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 724,
+                        "y": 1017
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Mari East Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 917,
+                        "y": 936
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Mari West Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 662,
+                        "y": 935
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Mari North Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 828,
+                        "y": 872
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Mari North West Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 632,
+                        "y": 812
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Orange Pond",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 857,
+                        "y": 799
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Behind Tree West Of Pirates",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 737,
+                        "y": 685
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Behind Tree Near Banana",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 872,
+                        "y": 1121
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - South West Corner",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1205,
+                        "y": 1242
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Face In The Wall",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1170,
+                        "y": 936
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Club Sandwich",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1043,
+                        "y": 632
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Behind Tree Near Crossant",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 990,
+                        "y": 582
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Donut House Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 946,
+                        "y": 447
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Donut House",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1036,
+                        "y": 411
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Main - Near Sandwich House",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1306,
+                        "y": 424
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Rain Town - Turn Valve To Right",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 776,
+                        "y": 793
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Stop Rain",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$fearDrowning"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Sandwich House - Jelly",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1220,
+                        "y": 422
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Present For Palmie",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$fossil"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Mouse House - Mina",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1095,
+                        "y": 429
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Orange Joe House - Interior",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 887,
+                        "y": 58
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Orange Joe House - Exterior",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 827,
+                        "y": 27
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - The Conviction Of Orange Joe",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "orangeJoe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Dino Dig 1F - Hector",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1544,
+                        "y": 141
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Find Hector",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Dino Dig 1F - Ancient Code",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1331,
+                        "y": 154
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Dig Between Toast",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Dino Dig 2F - Oragne Joe",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1811,
+                        "y": 212
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - The Conviction Of Orange Joe First Reward",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "orangeJoe, crest"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - The Conviction Of Orange Joe Second Reward",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "orangeJoe, crest"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Dino Dig 3F - Wishbone Left",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2049,
+                        "y": 270
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Dig Spot",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Dino Dig 3F - Wishbone Right Black Key",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2395,
+                        "y": 270
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Dig Spot - Letter X",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Dino Dig 4F - Chicken?",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2624,
+                        "y": 247
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Toast Grave Path - Burning Man",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1595,
+                        "y": 775
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOMain"
+                        ],
+                "sections": [
+                    {
+                        "name": "Block His Path",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Toast Graveyard - Bread Twins Prize",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 1907,
+                        "y": 860
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Summoning Circle - Safe",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2124,
+                        "y": 607
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOGrave"
+                        ],
+                "sections": [
+                    {
+                        "name": "Code 7201969",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Summoning Circle - Mole",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2202,
+                        "y": 721
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOGrave"
+                        ],
+                "sections": [
+                    {
+                        "name": "Gotta Know The Recipe",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$recipe"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Summoning Circle - Papa Chip",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2295,
+                        "y": 628
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OOGrave"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sacrifice Cookies",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Left Pantry - Left",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2331,
+                        "y": 1471
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Left Pantry - Right",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2412,
+                        "y": 1490
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Left Pantry - Bottom",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2402,
+                        "y": 1524
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Middle Pantry - Left",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2444,
+                        "y": 1470
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Middle Pantry - Bottom",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2500,
+                        "y": 1524
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Orange Oasis Right Pantry - Bottom",
+                "map_locations": [
+                    {
+                        "map": "Orange_Oasis",
+                        "x": 2613,
+                        "y": 1524
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$BreadTwins"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

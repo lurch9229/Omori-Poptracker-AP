@@ -1,0 +1,458 @@
+[
+    {
+        "name": "The Abyss",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "The Abyss Entrance - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 124,
+                        "y": 808
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter Z",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Start - Right Alcove",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 600,
+                        "y": 80
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Start - Middle Alcove",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 414,
+                        "y": 221
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+
+            {
+                "name": "The Abyss Start - Near South Ladder",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 533,
+                        "y": 336
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Start - Isolated",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 267,
+                        "y": 225
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 1 - Left Sector",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 625,
+                        "y": 517
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 1 - Lower Alcove",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 685,
+                        "y": 752
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 2 - Lower Section",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 318,
+                        "y": 938
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 3 - Right Section Upper",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 969,
+                        "y": 856
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 3 - Right Section Lower",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 866,
+                        "y": 1104
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 3 - Middle Section",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 893,
+                        "y": 1023
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 4 - Top Right Section",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 547,
+                        "y": 1046
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 4 - Middle Right Section",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 449,
+                        "y": 1143
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 4 - Middle Left Section",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 186,
+                        "y": 1318
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Lower 4 - Middle Lower Section",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 340,
+                        "y": 1400
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Abyss Depths - Abbi",
+                "map_locations": [
+                    {
+                        "map": "Abyss",
+                        "x": 467,
+                        "y": 1493
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$AbyssAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "abbiDefeated",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

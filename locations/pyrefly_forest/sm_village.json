@@ -1,0 +1,381 @@
+[
+    {
+        "name": "Sproutmole Village",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Sproutmole Village - Christmas Room",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 390,
+                        "y": 873
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Box Mole",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 440,
+                        "y": 873
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village Bottom - Left",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 505,
+                        "y": 1207
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village Bottom - Right",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 645,
+                        "y": 1207
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village Bottom - Center",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 560,
+                        "y": 1207
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Brother Mole",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 580,
+                        "y": 232
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Care Package",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "packageStart",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Pessi",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 335,
+                        "y": 185
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVEnd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Pessi's Thing",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$pessiThing"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Sporty Mole",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 560,
+                        "y": 822
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Sweaty Thing",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Shady Mole",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 602,
+                        "y": 387
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVEnd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - B.E.D.",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$bed"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Mayor Mole",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 810,
+                        "y": 1070
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVEnd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - B.E.D.",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$airhorn"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Rosa",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 215,
+                        "y": 897
+                    }
+                ],
+                "access_rules": 
+                        [
+                            ""
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - B.E.D.",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$blackmail"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sproutmole Village - Season Moles",
+                "map_locations": [
+                    {
+                        "map": "SM_Village",
+                        "x": 125,
+                        "y": 823
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Spring",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Summer",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fall",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Winter",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

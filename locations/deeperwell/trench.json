@@ -1,0 +1,204 @@
+[
+    {
+        "name": "Deeperwell",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Deeperwell Island 6 - Face in The Wall",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 216,
+                        "y": 1394
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deeperwell Pool 5 - Take A Dip",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 420,
+                        "y": 1102
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deeperwell Pool 2 - Near South Pool",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 699,
+                        "y": 1178
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deeperwell Humphrey's Cave - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 575,
+                        "y": 68
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter W",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deeperwell Island 3 - Sheet Music",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 860,
+                        "y": 1213
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$saveBasil"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deeperwell Island 4 - Sheet Music",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 916,
+                        "y": 1064
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$saveBasil"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deeperwell Island 7 - Sheet Music",
+                "map_locations": [
+                    {
+                        "map": "Deeperwell",
+                        "x": 546,
+                        "y": 800
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DPWAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$saveBasil"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

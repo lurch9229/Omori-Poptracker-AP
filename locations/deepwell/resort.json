@@ -1,0 +1,969 @@
+[
+    {
+        "name": "Last Resort",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Last Resort Casino - Black Key",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 104,
+                        "y": 315
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter N",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Front Desk",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 211,
+                        "y": 428
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$jawsumDefeated"
+                        ],
+                "sections": [
+                    {
+                        "name": "Forgetting Basil",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Basket Case",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 323,
+                        "y": 413
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Silker",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 331,
+                        "y": 265
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Krispy",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 394,
+                        "y": 169
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Tiffany Darling",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 101,
+                        "y": 240
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Ladies Room",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 199,
+                        "y": 160
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Casino - Mens Room Black Key",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 242,
+                        "y": 160
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter P",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Bench",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 154,
+                        "y": 1354
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Bottom Right",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 331,
+                        "y": 1490
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Locker",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Top Left",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 184,
+                        "y": 1372
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Locker",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Trash Can",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 380,
+                        "y": 1377
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Right Cabinet",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 527,
+                        "y": 1372
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Near Plant",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 504,
+                        "y": 1528
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel B1 - Break Room Berly",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 624,
+                        "y": 1400
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum"
+                        ],
+                "sections": [
+                    {
+                        "name": "Give Pool Noodle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$poolNoodle"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 2F - Right Room Card",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 301,
+                        "y": 1151
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 2F - Right Room Trash Can",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 446,
+                        "y": 1237
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 3F - Left Room Melon",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 18,
+                        "y": 988
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 3F - Left Room Trash Can",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 211,
+                        "y": 988
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 3F - Right Room Wolf",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 400,
+                        "y": 944
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 3F - Right Room Melon",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 253,
+                        "y": 988
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 3F - Right Room Trash Can",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 446,
+                        "y": 988
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel 4F - Right Room",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 671,
+                        "y": 613
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Construction Site - Bottom Level Right",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 880,
+                        "y": 510
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Construction Site - 3rd Level Right",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 702,
+                        "y": 319
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRConstruction"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Construction Site - Near Top Level",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 1187,
+                        "y": 180
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRConstruction"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Construction Site - Top Level",
+                "map_locations": [
+                    {
+                        "map": "LR_Hotel",
+                        "x": 839,
+                        "y": 47
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRConstruction"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Concierge - Elevator Black Key",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 589,
+                        "y": 642
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter Q",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Concierge - Shamboo",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 594,
+                        "y": 450
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel Concierge - Touchdown",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 500,
+                        "y": 522
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel CEO Elevator",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 495,
+                        "y": 298
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fast Elevator",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$jawsumDefeated"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bookcase",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel CEO Office - Jawsum + Pluto",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 549,
+                        "y": 169
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum"
+                        ],
+                "sections": [
+                    {
+                        "name": "Jawsum Battle Drop",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "jawsum",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Last Resort Hotel CEO Office - Boss Hero",
+                "map_locations": [
+                    {
+                        "map": "LR_Casino",
+                        "x": 549,
+                        "y": 110
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$LRJawsum, $jawsumDefeated"
+                        ],
+                "sections": [
+                    {
+                        "name": "Revisit",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$basilSaved"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+{
+    "name": "Fear of Heights",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/fearHeights.png",
+    "codes": "heights"
+  },
+  {
+    "name": "Fear of Spiders",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "loop": false,
+    "stages": [
+      {
+        "img": "images/items/fearSpiders2.png",
+        "codes": "spiders"
+      },
+      {
+        "img": "images/items/fearSpiders.png",
+        "codes": "spidersBeat"
+      }
+    ]
+  },
+  {
+    "name": "Fear of Drowning",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/fearDrowning.png",
+    "codes": "drown"
+  }
+]

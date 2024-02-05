@@ -1,0 +1,15 @@
+{
+	"name": "Omori Tracker",
+	"game_name": "Omori",
+	"package_version": "0.0.1",
+	"package_uid": "omori_tracker",
+	"author": "Lurch9229",
+	"platform": "PC",
+	"variants": {
+		"map_tracker": 
+		{
+			"display_name": "Map Tracker",
+			"flags": [ "" ]
+		}
+	}
+}

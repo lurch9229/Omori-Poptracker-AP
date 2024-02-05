@@ -1,0 +1,989 @@
+[
+    {
+        "name": "Humphrey",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Humphrey Marina Sector First Room - Table",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1348,
+                        "y": 2044
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW1st"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Third Room - Behind Barrel South",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1830,
+                        "y": 1858
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Third Room - Behind Barrel Center",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1992,
+                        "y": 1632
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Third Room - Behind Barrel North",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2047,
+                        "y": 1463
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Chimera Chase - Lower Left",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1684,
+                        "y": 463
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Chimera Chase - Upper Left",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1720,
+                        "y": 371
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Chimera Chase - Right",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1902,
+                        "y": 569
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Skill",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Chimera Chase - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1826,
+                        "y": 532
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter T",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Chimera Chase - Chimera Crush",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1800,
+                        "y": 343
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Marina Sector Final Lab - Slimy Card",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 1948,
+                        "y": 266
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMarina2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector First Room - Near First Raft",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2536,
+                        "y": 2416
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW1st"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector First Room - Second Raft Small Dock",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2597,
+                        "y": 2071
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector First Room - After Bridge",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2779,
+                        "y": 2446
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector Second Room - Atop Bookcase Center Right",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2562,
+                        "y": 1684
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector Second Room - Atop Bookcase Center Left",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2496,
+                        "y": 1672
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector Second Room - Atop Bookcase Top",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2667,
+                        "y": 1630
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector Third Room - Prize 1",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3147,
+                        "y": 1569
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector Third Room - Prize 2",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3207,
+                        "y": 1569
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector After Water Slide - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3215,
+                        "y": 2255
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter U",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector After Water Slide - From Slides",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3367,
+                        "y": 2255
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector After Water Slide - Atop Bookcase",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3592,
+                        "y": 2404
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Medusa Sector Final Lab - Slimy Card",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3600,
+                        "y": 2930
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMedusa2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Molly Sector Conveyors Room 1 - Behind Cut",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 841,
+                        "y": 1984
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW1st"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Molly Sector Conveyors Room 1 - After First Teleporter",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 704,
+                        "y": 1784
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMolly2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Molly Sector Conveyors Room 1 - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 795,
+                        "y": 1730
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMolly2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter V",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Molly Sector Conveyors Room 2 - Face In The Wall",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 740,
+                        "y": 2100
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMolly2, $aubreySmash2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Upper Left",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upper Right",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle Left",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle Right",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle Center",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower Left",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower Right",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Molly Sector Final Lab - Slimy Card",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 664,
+                        "y": 1508
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWMolly2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Uvula - Humphrey",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3347,
+                        "y": 160
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HWBoss"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "humphrey",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Revisit - Marina",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 2020,
+                        "y": 217
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW2nd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Marina's Operation",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Revisit - Medusa",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 3685,
+                        "y": 2058
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW2nd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Medusa's Experiment",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Revisit - Molly",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 540,
+                        "y": 1545
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW2nd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Molly's Analysis",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Humphrey Revisit - Boss Rush",
+                "map_locations": [
+                    {
+                        "map": "Humphrey",
+                        "x": 60,
+                        "y": 1620
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$HW2nd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Win Gold",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

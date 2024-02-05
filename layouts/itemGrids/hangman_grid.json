@@ -1,0 +1,12 @@
+{
+  "hangman_grid": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "item_margin": "1,2",
+    "item_size": "55,55",
+    "rows": [
+      ["bk_W", "bk_E", "bk_L", "bk_C", "bk_O", "bk_M", "bk_E", "", "bk_T", "bk_O", ""],
+      ["bk_B", "bk_L", "bk_A", "bk_C", "bk_K", "", "bk_S", "bk_P", "bk_A", "bk_C", "bk_E"]
+    ]
+  }
+}

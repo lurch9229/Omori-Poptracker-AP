@@ -1,0 +1,1281 @@
+[
+    {
+        "name": "Sweetheart's Castle",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Sweetheart's Castle Library - Top Left Bookcase",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 335,
+                        "y": 320
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Library - Left Staircase",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 363,
+                        "y": 420
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Library - Center Right Bookcase",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 535,
+                        "y": 447
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Library - Lower Right Bookcase",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 507,
+                        "y": 591
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Art Gallery - Maestro's Art",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 73,
+                        "y": 432
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Art Gallery - Tiffany Darling",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 73,
+                        "y": 487
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Art Gallery - Black Key",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 207,
+                        "y": 432
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter K",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Art Gallery - Face In The Wall",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 260,
+                        "y": 425
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Art Gallery - Left Sproutmole Near Statue",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 120,
+                        "y": 663
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Complimentary Tofu",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Art Gallery - Right Sproutmole Near Statue",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 160,
+                        "y": 663
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Complimentary Tofu",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Theater - 2nd Row Right",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 513,
+                        "y": 1322
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Lower Right Hall - End Of Corridor",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1963,
+                        "y": 915
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Ballroom - Left Balcony",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1740,
+                        "y": 780
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Ballroom - Right Balcony",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1913,
+                        "y": 780
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Ballroom - Choir Left",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1714,
+                        "y": 567
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Ballroom - Choir Right Cake",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1903,
+                        "y": 563
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Kitchen - Dining Room",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1548,
+                        "y": 591
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Kitchen - Countertop",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1573,
+                        "y": 409
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Weapon - Frying Pan",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Kitchen - Ingredients Table",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1660,
+                        "y": 504
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Weapon Skill",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Servent Quarters - Black Key",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1536,
+                        "y": 115
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter J",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Servent Quarters - Cake",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1645,
+                        "y": 115
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Servent Quarters - Near Sofa",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1573,
+                        "y": 115
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Servent Quarters - Back Far Left Room",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1418,
+                        "y": 181
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Bow-Tie",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Bedroom Corridor - In Plain Sight",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 668,
+                        "y": 419
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Royal Bedroom - Left Melons",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 590,
+                        "y": 182
+                    }
+                ],
+                "access_rules": 
+                        [
+                            ""
+                        ],
+                "sections": [
+                    {
+                        "name": "Hidden",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Royal Bedroom - Right Melons",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 783,
+                        "y": 182
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Hidden",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Royal Bedroom - Bed",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 685,
+                        "y": 163
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sleep For Item",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Royal Bedroom - Table",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 746,
+                        "y": 189
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Royal Bedroom - Cake",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 612,
+                        "y": 189
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Royal Bedroom - Balcony",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 393,
+                        "y": 150
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCFoyer"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Weapon Skill",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Upper Left Maze",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 789,
+                        "y": 1083
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$kelThrow2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Upper Right Maze",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1206,
+                        "y": 1115
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$kelThrow2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Lower Left Maze",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 874,
+                        "y": 1381
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$kelThrow2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Lower Right Maze",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1241,
+                        "y": 1455
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$kelThrow2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Mushroom Man",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 788,
+                        "y": 1226
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cut Upgrade",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$omoriCut2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Pet Jail",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1258,
+                        "y": 1526
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Center Left",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Center Right",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Near Left",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Far Left",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Near Right",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Far Right",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Courtyard - Fanmail Graveyard",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1057,
+                        "y": 1332
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Teddy Bear",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Castle Stage - Sweetheart",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1830,
+                        "y": 1394
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "sweetheart",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Hidden Library - Black Key",
+                "map_locations": [
+                    {
+                        "map": "SH_Castle",
+                        "x": 1830,
+                        "y": 1142
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCCourtyard"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter L",
+                        "visibility_rules":
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$sweetheartDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

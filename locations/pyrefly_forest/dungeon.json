@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Sweetheart's Dungeon",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Sweetheart's Dungeon - Top Near Left Cell",
+                "map_locations": [
+                    {
+                        "map": "SH_Dungeon",
+                        "x": 695,
+                        "y": 421
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCShow"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Dungeon - Bottom Far Right Cell",
+                "map_locations": [
+                    {
+                        "map": "SH_Dungeon",
+                        "x": 990,
+                        "y": 622
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCDungeon"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bones (Talk As Hero)",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Dungeon - Bones Before Torture Room",
+                "map_locations": [
+                    {
+                        "map": "SH_Dungeon",
+                        "x": 907,
+                        "y": 421
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCDungeon"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk As Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Dungeon - Black Key",
+                "map_locations": [
+                    {
+                        "map": "SH_Dungeon",
+                        "x": 906,
+                        "y": 622
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCDungeon"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter I",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sweetheart's Dungeon - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "SH_Dungeon",
+                        "x": 780,
+                        "y": 205
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SHCDungeon"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

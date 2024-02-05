@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Otherworld Solar",
+    "type": "toggle",
+    "loop": true,
+    "codes": "ow_solar"
+  },
+  {
+    "name": "Orange Joe",
+    "type": "toggle",
+    "loop": true,
+    "codes": "orangeJoe"
+  },
+  {
+    "name": "Pinkbeard",
+    "type": "toggle",
+    "loop": true,
+    "codes": "pinkbeard"
+  },
+  {
+    "name": "Start Care Package Quest",
+    "type": "toggle",
+    "loop": true,
+    "codes": "packageStart"
+  }
+]

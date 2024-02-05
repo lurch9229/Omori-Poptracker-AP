@@ -1,0 +1,121 @@
+[
+{
+    "name": "Big Airhorn",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/airhorn.png",
+    "codes": "airhorn"
+  },
+  {
+    "name": "B.E.D.",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/bed.png",
+    "codes": "bed"
+  },
+  {
+    "name": "Blackmail",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/blackMail.png",
+    "codes": "blackmail"
+  },
+  {
+    "name": "Care Package",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/carePackage.png",
+    "codes": "carePackage"
+  },
+  {
+    "name": "Doohickey",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/doohickey.png",
+    "codes": "doohickey"
+  },
+  {
+    "name": "Thank-You Fossil",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/fossil.png",
+    "codes": "fossil"
+  },
+  {
+    "name": "Interesting Book",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/interestingBook.png",
+    "codes": "book"
+  },
+  {
+    "name": "Actual Mole",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/mole.png",
+    "codes": "mole"
+  },
+  {
+    "name": "Pessi's Thing",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/pessiThing.png",
+    "codes": "pessiThing"
+  },
+  {
+    "name": "Pool Noodle",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/poolNoodle.png",
+    "codes": "poolNoodle"
+  },
+  {
+    "name": "Recipe 4 Disaster",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/recipe.png",
+    "codes": "recipe"
+  },
+  {
+    "name": "Spooky Map",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/SpookyMap.png",
+    "codes": "spookyMap"
+  },
+  {
+    "name": "Teddy Bear",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/teddyBear.png",
+    "codes": "teddyBear"
+  },
+  {
+    "name": "Thingamabob",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/thingamabob.png",
+    "codes": "thingamabob"
+  },
+  {
+    "name": "Whatchamacallit",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/whatchamacallit.png",
+    "codes": "whatchamacallit"
+  },
+  {
+    "name": "Orange Crest",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/crest.png",
+    "codes": "crest"
+  },
+  {
+    "name": "Joke Book",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/joke.png",
+    "codes": "joke"
+  }
+]

@@ -1,0 +1,184 @@
+[
+{
+    "name": "Letter A",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/A.png",
+    "codes": "bk_A"
+  },
+  {
+    "name": "Letter B",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/B.png",
+    "codes": "bk_B"
+  },
+  {
+    "name": "Letter C",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/C.png",
+    "codes": "bk_C"
+  },
+  {
+    "name": "Letter D",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/D.png",
+    "codes": "bk_D"
+  },
+  {
+    "name": "Letter E",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/E.png",
+    "codes": "bk_E"
+  },
+  {
+    "name": "Letter F",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/F.png",
+    "codes": "bk_F"
+  },
+  {
+    "name": "Letter G",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/G.png",
+    "codes": "bk_G"
+  },
+  {
+    "name": "Letter H",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/H.png",
+    "codes": "bk_H"
+  },
+  {
+    "name": "Letter I",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/I.png",
+    "codes": "bk_I"
+  },
+  {
+    "name": "Letter J",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/J.png",
+    "codes": "bk_J"
+  },
+  {
+    "name": "Letter K",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/K.png",
+    "codes": "bk_K"
+  },
+  {
+    "name": "Letter L",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/L.png",
+    "codes": "bk_L"
+  },
+  {
+    "name": "Letter M",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/M.png",
+    "codes": "bk_M"
+  },
+  {
+    "name": "Letter N",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/N.png",
+    "codes": "bk_N"
+  },
+  {
+    "name": "Letter O",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/O.png",
+    "codes": "bk_O"
+  },
+  {
+    "name": "Letter P",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/P.png",
+    "codes": "bk_P"
+  },
+  {
+    "name": "Letter Q",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/Q.png",
+    "codes": "bk_Q"
+  },
+  {
+    "name": "Letter R",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/R.png",
+    "codes": "bk_R"
+  },
+  {
+    "name": "Letter S",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/S.png",
+    "codes": "bk_S"
+  },
+  {
+    "name": "Letter T",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/T.png",
+    "codes": "bk_T"
+  },
+  {
+    "name": "Letter U",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/U.png",
+    "codes": "bk_U"
+  },
+  {
+    "name": "Letter V",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/V.png",
+    "codes": "bk_V"
+  },
+  {
+    "name": "Letter W",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/W.png",
+    "codes": "bk_W"
+  },
+  {
+    "name": "Letter X",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/X.png",
+    "codes": "bk_X"
+  },
+  {
+    "name": "Letter Y",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/Y.png",
+    "codes": "bk_Y"
+  },
+  {
+    "name": "Letter Z",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/letters/Z.png",
+    "codes": "bk_Z"
+  }
+]

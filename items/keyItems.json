@@ -1,0 +1,90 @@
+[
+{
+    "name": "Junkyard Key",
+    "type": "consumable",
+    "max_quantity": 2,
+    "initial_quantity": 0,
+    "increment": 1,
+    "img": "images/items/junkKey.png",
+    "codes": "junkKey"
+  },
+  {
+    "name": "Special Mixtape",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/mixtape.png",
+    "codes": "mixtape"
+  },
+  {
+    "name": "Wooden Track",
+    "type": "consumable",
+    "max_quantity": 3,
+    "initial_quantity": 0,
+    "increment": 1,
+    "img": "images/items/track.png",
+    "codes": "track"
+  },
+  {
+    "name": "Matchbox",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/matchbox.png",
+    "codes": "matchbox"
+  },
+  {
+    "name": "Show Tickets",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/tickets.png",
+    "codes": "tickets"
+  },
+  {
+    "name": "Sprout Mole Masks",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/moleMasks.png",
+    "codes": "masks"
+  },
+  {
+    "name": "Cool Key Card",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/coolCard.png",
+    "codes": "coolCard"
+  },
+  {
+    "name": "Slimy Key Card",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/slimyCard.png",
+    "codes": "slimyCard"
+  },
+  {
+    "name": "Train Pass",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/trainPass.png",
+    "codes": "trainPass"
+  },
+  {
+    "name": "Giant Check",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/cheque.png",
+    "codes": "check"
+  },
+  {
+    "name": "Batteries",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/batteries.png",
+    "codes": "batteries"
+  },
+  {
+    "name": "Bad Drawing",
+    "type": "toggle",
+    "loop": false,
+    "img": "images/items/badDrawing.png",
+    "codes": "drawing"
+  }
+]

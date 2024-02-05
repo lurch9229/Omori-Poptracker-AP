@@ -1,0 +1,1914 @@
+[
+    {
+        "name": "Deepwell",
+        "chest_unopened_img": "images/items/chest_x.png",
+        "chest_opened_img": "images/items/chest_o.png",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Deepwell Last Resort Entrance - Right Behind Pots",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4637,
+                        "y": 717
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Left Behind Pots",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4431,
+                        "y": 600
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Mailbox",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4539,
+                        "y": 164
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pool Noodle Purchase",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Lowest Left Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4465,
+                        "y": 721
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Lowest Right Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4631,
+                        "y": 570
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Center Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4612,
+                        "y": 475
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Center Right Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4817,
+                        "y": 347
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Highest Right Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4710,
+                        "y": 208
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Highest Left Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4300,
+                        "y": 195
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Last Resort Entrance - Near Joke",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4375,
+                        "y": 155
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Haunted Pool",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4790,
+                        "y": 195
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Black Key N",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tophat Ghost",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - Ghost Party",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$spookyMap, $OWJunkyard3_2, $OOMain, $OWCamp, $VFPinwheel, $SHCFoyer, $LRStart"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Endless Highway - Left Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 3370,
+                        "y": 850
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Endless Highway - Center Upper Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 3940,
+                        "y": 840
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Endless Highway - Center Lower Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 3651,
+                        "y": 983
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Endless Highway - Right Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 4197,
+                        "y": 983
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Entrance Ladder - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 3136,
+                        "y": 803
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter M",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Near Pluto Airlines Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2666,
+                        "y": 852
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Below Tollgate 1 Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2893,
+                        "y": 983
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Near Mirror Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2258,
+                        "y": 829
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwel Underwater Highway - Near Fish House Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1973,
+                        "y": 983
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Near Tollgate 2 Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1784,
+                        "y": 834
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Bikers",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1144,
+                        "y": 822
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway, $heroCharm1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Biker 1",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Biker 2",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Biker 3",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Biker 4",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Below Tollgate 3 Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 932,
+                        "y": 983
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 675,
+                        "y": 811
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter S",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Underwater Highway - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 640,
+                        "y": 850
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Behind Smash Near Start",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2501,
+                        "y": 598
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Contruction Site - Behind Bush Near Start Left",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2500,
+                        "y": 650
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Behind Bush Near Start Right",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2729,
+                        "y": 654
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Left Under Exit",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2328,
+                        "y": 651
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Left Under Scaffolding Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2394,
+                        "y": 579
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Atop Scaffolding",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2542,
+                        "y": 424
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Shady Mole Cave",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2890,
+                        "y": 604
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Giant Clam",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Construction Site - Snaley",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 2235,
+                        "y": 526
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Doomed To Die",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Near Exit To Construction Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1867,
+                        "y": 310
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Below Exit To Construction",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1925,
+                        "y": 574
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Near Exit To Highway Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1762,
+                        "y": 651
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Above Exit To Highway Upper",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1631,
+                        "y": 556
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Above Exit To Highway Lower Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1653,
+                        "y": 591
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Giant Clam ",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1378,
+                        "y": 144
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Near Exit To Bridges Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1339,
+                        "y": 285
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Near Musical Cave Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1565,
+                        "y": 170
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Top Right Corner Furthest",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1930,
+                        "y": 173
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Top Right Corner Closest Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1803,
+                        "y": 204
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Right Upper Path Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1704,
+                        "y": 294
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Bottom Section Lowest",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1552,
+                        "y": 718
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Bottom Section Right Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1592,
+                        "y": 680
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Bottom Section Middle Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1516,
+                        "y": 596
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Bottom Section Left Near Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1421,
+                        "y": 592
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Bottom Section Left Far",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1368,
+                        "y": 620
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Bottom Section Upper",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1478,
+                        "y": 421
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Left Section Upper Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1528,
+                        "y": 344
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Coral Cave - Left Section Alcove",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1363,
+                        "y": 479
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Near Coral Cave Left Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 988,
+                        "y": 354
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Near Coral Cave Lower Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 1043,
+                        "y": 537
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Snaley",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 947,
+                        "y": 490
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Doomed To Die",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Bridges Lower Right",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 884,
+                        "y": 521
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Bridges Upper Right",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 842,
+                        "y": 347
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Bridges Center",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 737,
+                        "y": 452
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Bridges Upper Left Near",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 663,
+                        "y": 348
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Broken Bridges - Bridges Upper Left Far",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 596,
+                        "y": 366
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Highway End - Near Mari Upper Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 233,
+                        "y": 579
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Highway End - Near Mari Right Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 437,
+                        "y": 645
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Highway End - Above Mari Left Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 38,
+                        "y": 518
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Highway End - Face In The Wall",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 460,
+                        "y": 528
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway, $aubreySmash2, $omoriCut2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon Upper",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Green Melon Lower",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Deepwell Highway End - Top Clam",
+                "map_locations": [
+                    {
+                        "map": "Deepwell",
+                        "x": 335,
+                        "y": 364
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pickup",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

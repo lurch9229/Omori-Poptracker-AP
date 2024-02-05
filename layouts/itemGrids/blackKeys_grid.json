@@ -1,0 +1,13 @@
+{
+  "blackKeys_grid": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "item_margin": "1,2",
+    "item_size": "55,55",
+    "rows": [
+      ["bk_A", "bk_B", "bk_C", "bk_D", "bk_E", "bk_F", "bk_G", "bk_H", "bk_I"],
+      ["bk_J", "bk_K", "bk_L", "bk_M", "bk_N", "bk_O", "bk_P", "bk_Q", "bk_R"],
+      ["bk_S", "bk_T", "bk_U", "bk_V", "bk_W", "bk_X", "bk_Y", "bk_Z"]
+    ]
+  }
+}

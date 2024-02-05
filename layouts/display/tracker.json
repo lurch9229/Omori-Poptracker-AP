@@ -1,0 +1,269 @@
+{
+	"tracker_horizontal": 
+	{
+    	"type": "container",
+    	"content": {
+      		"type": "dock",
+      		"dropshadow": true,
+      		"content": [
+                {
+                    "type": "array",
+                    "dock": "bottom",
+                    "orientation": "horizontal",
+                    "content": 
+                    [
+                      {
+                        "type": "group",
+                        "background": "#A020F0",
+                        "header": "Characters",
+                        "content": 
+                        {
+                          "type": "array",
+                          "orientation": "vertical",
+                          "margin": "0,0",
+                          "content": 
+                          [
+                            {
+                              "type": "layout",
+                              "key": "character_grid"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "background": "#A020F0",
+                        "header": "Fears",
+                        "content": 
+                        {
+                          "type": "array",
+                          "orientation": "vertical",
+                          "margin": "0,0",
+                          "content": 
+                          [
+                            {
+                              "type": "layout",
+                              "key": "fear_grid"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "background": "#A020F0",
+                        "header": "Black Keys",
+                        "content": 
+                        {
+                          "type": "array",
+                          "orientation": "vertical",
+                          "margin": "0,0",
+                          "content": 
+                          [
+                            {
+                              "type": "layout",
+                              "key": "blackKeys_grid"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "background": "#A020F0",
+                        "header": "Hangman",
+                        "content": 
+                        {
+                          "type": "array",
+                          "orientation": "vertical",
+                          "margin": "0,0",
+                          "content": 
+                          [
+                            {
+                              "type": "layout",
+                              "key": "hangman_grid"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                },
+                {
+                    "type": "array",
+                    "dock": "left",
+                    "orientation": "vertical",
+                    "content": 
+                    [
+                      {
+                        "type": "group",
+                        "background": "#A020F0",
+                        "header": "Key Items",
+                        "content": 
+                        {
+                          "type": "array",
+                          "orientation": "vertical",
+                          "margin": "0,0",
+                          "content": 
+                          [
+                            {
+                              "type": "layout",
+                              "key": "keyItems_grid"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "background": "#A020F0",
+                        "header": "Quest Items",
+                        "content": 
+                        {
+                          "type": "array",
+                          "orientation": "vertical",
+                          "margin": "0,0",
+                          "content": 
+                          [
+                            {
+                              "type": "layout",
+                              "key": "questItems_grid"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                },
+                {
+                    "type": "array",
+                    "v_alignment": "stretch",
+                    "h_alignment": "stretch",
+                    "margin": "0, 0, 0, 0",
+                    "content": [
+                        {
+                            "type": "tabbed",
+                            "dock": "left",
+                            "tabs": [
+                                {
+                                    "title": "Vast Forest North",
+                                    "content": {
+                                        "type":"map",
+                                        "maps": ["VF_North"]
+                                    }
+                                },
+                                {
+                                    "title": "Vast Forest South",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["VF_South"]
+                                    }
+                                },
+                                {
+                                    "title": "Otherworld",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Otherworld"]
+                                    }
+                                },
+                                {
+                                    "title": "Junkyard Start",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Junkyard_Start"]
+                                    }
+                                },
+                                {
+                                    "title": "Junkyard End",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Junkyard_End"]
+                                    }
+                                },
+                                {
+                                    "title": "Pyrefly Forest",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Pyrefly_Forest"]
+                                    }
+                                },
+                                {
+                                    "title": "Sproutmole Village",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["SM_Village"]
+                                    }
+                                },
+                                {
+                                    "title": "Castle Dungeon",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["SH_Dungeon"]
+                                    }
+                                },
+                                {
+                                    "title": "Sweetheart's Castle",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["SH_Castle"]
+                                    }
+                                },
+                                {
+                                    "title": "Deepwell",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Deepwell"]
+                                    }
+                                },
+                                {
+                                    "title": "Casino & Corporate",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["LR_Casino"]
+                                    }
+                                },
+                                {
+                                    "title": "Last Resort Hotel",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["LR_Hotel"]
+                                    }
+                                },
+                                {
+                                    "title": "Deeperwell",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Deeperwell"]
+                                    }
+                                },
+                                {
+                                    "title": "Humphrey",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Humphrey"]
+                                    }
+                                },
+                                {
+                                    "title": "Orange Oasis",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Orange_Oasis"]
+                                    }
+                                },
+                                {
+                                    "title": "Snowglobe Mountain",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Snowglobe_Mountain"]
+                                    }
+                                },
+                                {
+                                    "title": "The Abyss",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": ["Abyss"]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+			]
+		}
+	}
+}

@@ -1,0 +1,262 @@
+[
+    {
+        "name": "VF North",
+        "chest_unopened_img": "images/items/chest_x.png",
+        "chest_opened_img": "images/items/chest_o.png",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Vast Forest North Stump Entrance - Inside Stump",
+                "map_locations": [
+                    {
+                        "map": "VF_North",
+                        "x": 1421,
+                        "y": 1134
+                    }
+                ],
+                "access_rules": 
+                        [
+                            ""
+                        ],
+                "sections": [
+                    {
+                        "name": "Whitespace - Shiny Knife",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Whitespace - Red Hand",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$basilSaved"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Neighbor's Room - Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Neighbor's Room - Snake 1st",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Neighbor's Room - Snake 2nd",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Neighbor's Room - Snake 3rd",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Neighbor's Room - Abbi Tentacle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest North Stump Entrance - Black Key",
+                "map_locations": [
+                    {
+                        "map": "VF_North",
+                        "x": 1435,
+                        "y": 1285
+                    }
+                ],
+                "access_rules": 
+                        [
+                            ""
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter A",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$VFStump"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest North Stump Entrance - Sproutmole Fight",
+                "map_locations": [
+                    {
+                        "map": "VF_North",
+                        "x": 1575,
+                        "y": 1175
+                    }
+                ],
+                "access_rules": 
+                        [
+                            ""
+                        ],
+                "sections": [
+                    {
+                        "name": "Show Tickets",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$VFStump"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest North Playground - Berly",
+                "map_locations": [
+                    {
+                        "map": "VF_North",
+                        "x": 1470,
+                        "y": 1770
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFPark"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Berly's Lost Ball",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - Berly's Lost Ball Skill",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest North Playground - Daisy",
+                "map_locations": [
+                    {
+                        "map": "VF_North",
+                        "x": 1110,
+                        "y": 1955
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFPark"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Daisy's Dilemma",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest North Playground - Shawn",
+                "map_locations": [
+                    {
+                        "map": "VF_North",
+                        "x": 1175,
+                        "y": 2210
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFPark"
+                        ],
+                "sections": [
+                    {
+                        "name": "Lay Down",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

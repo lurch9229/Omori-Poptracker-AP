@@ -1,0 +1,1548 @@
+[
+    {
+        "name": "Junkyard",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Junkyard Entrance - East Near Mast",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 288,
+                        "y": 1572
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 1 - West Behind Cattail",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 37,
+                        "y": 1188
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 1 - Behind Cut West",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 123,
+                        "y": 1135
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 1 - Behind Cut North",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 205,
+                        "y": 1105
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 2 - Kel Finds Junk",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 455,
+                        "y": 1153
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Event",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 2 - Crate Near Entrance",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 440,
+                        "y": 1111
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 2 - Crate Near Center",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 530,
+                        "y": 1115
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 2 - Crate Behind Cut",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 603,
+                        "y": 1237
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - Behind First Smash",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 775,
+                        "y": 1050
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - Behind Second Smash",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 710,
+                        "y": 988
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - After Second Smash",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 810,
+                        "y": 1070
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - Behind Third Smash",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 775,
+                        "y": 925
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - Behind Charm",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 892,
+                        "y": 865
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - Near Glasses Ghost",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 925,
+                        "y": 955
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 3 - After Conveyors",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 840,
+                        "y": 945
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard3_2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 1 - East End of Tunnel",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 994,
+                        "y": 522
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Atop Crates - Highest Crates East",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 1505,
+                        "y": 620
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel1"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 4 - Near Mari",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 1435,
+                        "y": 337
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard4"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 4 - Center Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 1282,
+                        "y": 190
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard4"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 4 - Center Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 1575,
+                        "y": 210
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard4"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 4 - Top Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 1365,
+                        "y": 65
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard4"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 4 - Top Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_Start",
+                        "x": 1600,
+                        "y": 45
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard4"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Entrance Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 267,
+                        "y": 358
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard6"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Entrance Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 157,
+                        "y": 350
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard6"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Atop Entrance Crates Upper",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 154,
+                        "y": 287
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard6"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Atop Entrance Crates Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 80,
+                        "y": 404
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard6"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Atop Entrance Crates Center",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 220,
+                        "y": 404
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard6"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Near Right Mast",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 250,
+                        "y": 200
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard6"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 65,
+                        "y": 187
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter D",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Near Left Mast",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 45,
+                        "y": 213
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Atop Back Crates Lower",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 182,
+                        "y": 250
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Atop Back Crates Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 230,
+                        "y": 225
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 6 - Near Exit",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 65,
+                        "y": 363
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 8 - Near Entrance Crane",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 86,
+                        "y": 476
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard8"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 8 - Behind Entrance Crane",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 76,
+                        "y": 468
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard8"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 8 - Behind Stacked Cars Center",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 77,
+                        "y": 513
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard8"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 8 - Behind Stacked Cars Bottom Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 61,
+                        "y": 575
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard8"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 8 - Behind Stacked Cars Bottom Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 180,
+                        "y": 575
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard8"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 8 - Near Bottom Crane",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 21,
+                        "y": 575
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard8"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 9 - Atop Crates With Crane",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 420,
+                        "y": 476
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard9"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 9 - Eastern Section Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 552,
+                        "y": 486
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard9"
+                        ],
+                "sections": [
+                    {
+                        "name": "Toilet",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 9 - Eastern Section Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 600,
+                        "y": 500
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard9"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 9 - Near Mast With Cars",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 542,
+                        "y": 762
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard9"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 9 - Near Mari Left",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 350,
+                        "y": 665
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard9"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 9 - Near Mari Right",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 462,
+                        "y": 684
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard9"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard 10 - Download Window",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 298,
+                        "y": 1084
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyard10"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Cans Before Ladder",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 462,
+                        "y": 326
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Cans After Ladder",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 488,
+                        "y": 274
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Junk Near Exit B",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 560,
+                        "y": 245
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Box Near Exit C Ladder",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 550,
+                        "y": 190
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Near Exit C",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 515,
+                        "y": 190
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Box in West Hall",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 410,
+                        "y": 335
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Junk Near Exit E",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 373,
+                        "y": 320
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Junk After Ladder Near Exit E",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 367,
+                        "y": 283
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Junkyard Tunnel 2 - Junk Near Exit D",
+                "map_locations": [
+                    {
+                        "map": "Junkyard_End",
+                        "x": 397,
+                        "y": 246
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWJunkyardTunnel2"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

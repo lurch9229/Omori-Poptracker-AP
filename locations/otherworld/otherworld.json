@@ -1,0 +1,1059 @@
+[
+    {
+        "name": "Otherworld",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Otherworld Campsite - Near Prissi's House",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1187,
+                        "y": 290
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sparkle",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Campsite - Recycling is a Concept",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1310,
+                        "y": 300
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp, $OWJunkyard10"
+                        ],
+                "sections": [
+                    {
+                        "name": "Recycle 5 Items",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Recycle 10 Items",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Recycle 25 Items",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Recycle 50 Items",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Campsite - Save Pluto",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1015,
+                        "y": 655
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp, $OWJunkyardStart, mixtape"
+                        ],
+                "sections": [
+                    {
+                        "name": "Skill",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Outskirts - Cut the Cones",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1980,
+                        "y": 605
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "omoriCut1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Outskirts - Cone Sproutmole",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1882,
+                        "y": 635
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk as Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "omoriCut1, $heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Outskirts - Face in the Wall",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1743,
+                        "y": 499
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "omoriCut1, $aubreySmash2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Outskirts - Behind Cattail",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1847,
+                        "y": 374
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Lake - Between Cattails",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 2632,
+                        "y": 460
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Lake - Lake Island",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 2415,
+                        "y": 590
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$fearDrowning"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Lake - Near Picnic Bench",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 2534,
+                        "y": 777
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Frozen Lake - Behind Igloo",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 2730,
+                        "y": 1111
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Behind Cattail North",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 355,
+                        "y": 980
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Near Car North",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 423,
+                        "y": 1043
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Behind Cattail East",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 822,
+                        "y": 978
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Near Car East",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 783,
+                        "y": 1135
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Central",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 570,
+                        "y": 1133
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 858,
+                        "y": 1211
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field Barn - Black Key",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 68,
+                        "y": 1220
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Letter F",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "boyfriend"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Under the Net",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 418,
+                        "y": 675
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Brother Mole",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 600,
+                        "y": 677
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC, $SMVStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$carePackage, packageStart"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Brother Mole's Room",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 630,
+                        "y": 677
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Room With Clothes Line + Planes",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 640,
+                        "y": 530
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Room With Horse Statue Left",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 750,
+                        "y": 590
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Room With Horse Statue Right",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 880,
+                        "y": 590
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Room With Horse Statue Center",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 780,
+                        "y": 590
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Under Room With Horse Statue",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 810,
+                        "y": 655
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Room With TV",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 34,
+                        "y": 535
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Batzy",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 135,
+                        "y": 535
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Talk as Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Sprout Mole Colony - Under Room With TV",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 140,
+                        "y": 655
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWSMC"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Campsite - Inside Present House",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1000,
+                        "y": 420
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Whereabouts of Duckie Jr",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Campsite - Inside Giant TV",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1305,
+                        "y": 945
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Strange Request Start",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - Strange Request Hand-In",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "whatchamacallit, thingamabob, doohickey"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Campsite - Inside Dragon House",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1220,
+                        "y": 390
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Speak to Smol as Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Campsite - Space Pirate Base",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 1180,
+                        "y": 150
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCamp"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Find Spaceboy's Mixtape",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "hosted_item": "ow_solar",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - Captain Spaceboy Battle Drop",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$OWJunkyardStart, mixtape"
+                        ],
+                        "hosted_item": "boyfriend",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - Defeat Captain Spaceboy",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$OWJunkyardStart, mixtape"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Black Key - Letter E Under Pillow",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "boyfriend"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Quest - Son Of A Space Pirate",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$basilSaved, sweetheart"
+                        ],
+                        "hosted_item": "pinkbeard",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Otherworld Cattail Field - Scarecrow",
+                "map_locations": [
+                    {
+                        "map": "Otherworld",
+                        "x": 650,
+                        "y": 1170
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$OWCattail"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Stick in the Mud",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+{
+    "name": "Tag Omori",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "loop": false,
+    "stages": [
+      {
+        "name": "Omori Cut 1",
+        "img": "images/items/omori.png",
+        "codes": "omoriCut1"
+      },
+      {
+        "name": "Omori Cut 2",
+        "img": "images/items/omori2.png",
+        "codes": "omoriCut2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Tag Aubrey",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled": true,
+    "loop": "false",
+    "stages": [
+      {
+        "name": "Aubrey Smash 1",
+        "img": "images/items/aubrey.png",
+        "codes": "aubreySmash1"
+      },
+      {
+        "name": "Aubrey Smash 2",
+        "img": "images/items/aubrey2.png",
+        "codes":"aubreySmash2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Tag Kel",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled": true,
+    "loop": "false",
+    "stages": [
+      {
+        "name": "Kel Throw 1",
+        "img": "images/items/kel.png",
+        "codes": "kelThrow1"
+      },
+      {
+        "name": "Kel Throw 2",
+        "img": "images/items/kel2.png",
+        "codes": "kelThrow2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Tag Hero",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled": true,
+    "loop": "false",
+    "stages": [
+      {
+        "name": "Hero Charm 1",
+        "img": "images/items/hero.png",
+        "codes": "heroCharm1"
+      },
+      {
+        "name": "Hero Charm 2",
+        "img": "images/items/hero2.png",
+        "codes": "heroCharm2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Basil Saved",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/items/basil.png",
+    "codes": "basilSaved"
+  },
+  {
+    "name": "Space Boyfriend Defeated",
+    "type": "toggle",
+    "img": "images/items/spaceBoySprite.png",
+    "codes": "boyfriend"
+  },
+  {
+    "name": "Sweetheart Defeated",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/items/sweetSprite.png",
+    "codes": "sweetheart"
+  },
+  {
+    "name": "Mr. Jawsum Defeated",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/items/jawsumSprite.png",
+    "codes": "jawsum"
+  },
+  {
+    "name": "Humphrey Defeated",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/items/humphreySprite.png",
+    "codes": "humphrey"
+  },
+  {
+    "name": "Abbi Defeated",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "loop": "false",
+    "stages": [
+      {
+        "img": "images/items/abbiSprite2.png",
+        "codes": "abbi"
+      },
+      {
+        "img": "images/items/abbiSprite1.png",
+        "codes": "abbiDefeated"
+      }
+    ]
+  }
+]

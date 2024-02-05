@@ -1,0 +1,1037 @@
+[
+    {
+        "name": "VF South",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Vast Forest East - Outside North Cave",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 1700,
+                        "y": 475
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFEast"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest East - Near Lake",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 2224,
+                        "y": 695
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFEast"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest East - Near Bridge",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 2045,
+                        "y": 515
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFEast"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest East - Outside East Cave",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 2351,
+                        "y": 570
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFEast"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West Coast - Behind Tree North",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 2650,
+                        "y": 575
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - Near Bench",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 935,
+                        "y": 670
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - Near Lake Behind Tree South",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 727,
+                        "y": 688
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - Near Lake Behind Tree North",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 675,
+                        "y": 610
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels Behind Tree South West",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 770,
+                        "y": 530
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels Behind Tree South East",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 846,
+                        "y": 489
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels Behind Tree North West",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 780,
+                        "y": 410
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels Behind Tree North East",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 848,
+                        "y": 400
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels Behind Tree South",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 820,
+                        "y": 567
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels Behind Tree West",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 738,
+                        "y": 477
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Pinwheels East",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 855,
+                        "y": 450
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - North Path Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 950,
+                        "y": 507
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - South Path Behind Cut",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 865,
+                        "y": 790
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest West - South West Cave",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 595,
+                        "y": 705
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Budgirl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$omoriCut2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest East Coast - Behind Tree North",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 185,
+                        "y": 570
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFWest"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Near Musician Gibs",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 680,
+                        "y": 185
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Past Queue South",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 710,
+                        "y": 135
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Past Queue North",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 690,
+                        "y": 90
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Mountain",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 520,
+                        "y": 230
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Talk as Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Hot Diggity Dog",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 542,
+                        "y": 250
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Talk as Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Goosey",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 540,
+                        "y": 205
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Talk as Hero",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$heroCharm1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Station Waiting Area - Leafy",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 610,
+                        "y": 235
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFStation"
+                    ],
+                "sections": [
+                    {
+                        "name": "Kill 5 BUNNIES",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Kill 25 BUNNIES",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Kill 50 BUNNIES",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Pinwheel Island - Broken Pinwheel",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 2375,
+                        "y": 200
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFPinwheel"
+                    ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$kelThrow1"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Pinwheel Island - Black Key",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 2330,
+                        "y": 140
+                    }
+                ],
+                "access_rules": 
+                    [
+                        "$VFPinwheel"
+                    ],
+                "sections": [
+                    {
+                        "name": "Letter C",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Bridges - Black Key",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 18,
+                        "y": 646
+                    },
+                    {
+                        "map": "VF_South",
+                        "x": 2832,
+                        "y": 682
+                    }
+                ],
+                "access_rules": 
+                    [
+                        ""
+                    ],
+                "sections": [
+                    {
+                        "name": "Letter B",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$VFWest"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Letter R",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$LRConstruction"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest East Coast - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 210,
+                        "y": 687
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFWest"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Path To Basil's - Sad Mole",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 1344,
+                        "y": 1126
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFBasilPath"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Path To Basil's - Happy Mole",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 1484,
+                        "y": 935
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFBasilPath"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Path To Basil's - Angry Mole",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 1234,
+                        "y": 821
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFBasilPath"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Vast Forest Basil's House",
+                "map_locations": [
+                    {
+                        "map": "VF_South",
+                        "x": 1347,
+                        "y": 1523
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$VFBasilPath, basilSaved"
+                        ],
+                "sections": [
+                    {
+                        "name": "Upper",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upper Left",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower Left",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

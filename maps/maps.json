@@ -1,0 +1,104 @@
+[
+  {
+    "name": "VF_North",
+    "location_size": 50,
+    "location_border_thickness": 4,
+    "img": "images/maps/Stump_Park.png"
+  },
+  {
+    "name": "VF_South",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/Vast_Forest.png"
+  },
+  {
+    "name": "Otherworld",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/Otherworld.png"
+  },
+  {
+    "name": "Junkyard_Start",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/Junkyard_1.png"
+  },
+  {
+    "name": "Junkyard_End",
+    "location_size": 20,
+    "location_border_thickness": 3,
+    "img": "images/maps/Junkyard_2.png"
+  },
+  {
+    "name": "Pyrefly_Forest",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrefly_Forest.png"
+  },
+  {
+    "name": "SM_Village",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/SM_Village.png"
+  },
+  {
+    "name": "SH_Dungeon",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/Dungeon.png"
+  },
+  {
+    "name": "SH_Castle",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/Castle.png"
+  },
+  {
+    "name": "Deepwell",
+    "location_size": 40,
+    "location_border_thickness": 4,
+    "img": "images/maps/Deepwell.png"
+  },
+  {
+    "name": "LR_Casino",
+    "location_size": 16,
+    "location_border_thickness": 3,
+    "img": "images/maps/Casino_Corporate.png"
+  },
+  {
+    "name": "LR_Hotel",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/Hotel.png"
+  },
+  {
+    "name": "Deeperwell",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/Deeperwell.png"
+  },
+  {
+    "name": "Humphrey",
+    "location_size": 50,
+    "location_border_thickness": 4,
+    "img": "images/maps/Humphrey.png"
+  },
+  {
+    "name": "Orange_Oasis",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/Oasis.png"
+  },
+  {
+    "name": "Snowglobe_Mountain",
+    "location_size": 50,
+    "location_border_thickness": 4,
+    "img": "images/maps/Snowglobe.png"
+  },
+  {
+    "name": "Abyss",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/Abyss.png"
+  }
+]

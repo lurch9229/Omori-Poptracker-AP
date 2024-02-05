@@ -1,0 +1,664 @@
+[
+    {
+        "name": "Pyrefly Forset",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Pyrefly Forest Start - Behind Island",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 351,
+                        "y": 988
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Start - Behind Bush North East",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 455,
+                        "y": 940
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Start - Near Pond",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 190,
+                        "y": 1030
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Joke Book",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Start - Tell Construction Joke",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 198,
+                        "y": 1008
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart, $DWHighway"
+                        ],
+                "sections": [
+                    {
+                        "name": "LOL Sword",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash, $heroCharm, joke"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Start - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 157,
+                        "y": 1001
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Start - Face In The Wall",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 142,
+                        "y": 980
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Fork 1 - Behind Tree North West",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 370,
+                        "y": 714
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Fork 1 - Near Bush South East",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 542,
+                        "y": 850
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Side 1 - North",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 184,
+                        "y": 765
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Wooden Track",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Side 1 - Demonboy",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 150,
+                        "y": 825
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - Fascinating Literature",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "book"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Fork 2 - Central Island",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 541,
+                        "y": 546
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Matchbox",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Fork 2 - Behind Tree South",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 422,
+                        "y": 632
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Fork 2 - Between Trees",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 385,
+                        "y": 587
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Side 2 - Candlie",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 776,
+                        "y": 589
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Quest - A Good Listener",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "teddyBear"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Side 2 - South",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 713,
+                        "y": 722
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Wooden Track",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Fork 3 - Behind Tree",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 254,
+                        "y": 566
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Side 3 - Behind Tree North West",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 39,
+                        "y": 460
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Side 3 - North",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 103,
+                        "y": 460
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Wooden Track",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Path to Lost Forest - Central",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 578,
+                        "y": 475
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Path to Lost Forest - East End",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 681,
+                        "y": 453
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Minecart Smash - Near Pond",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 287,
+                        "y": 394
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFStart"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest Ending - King Crawler",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 482,
+                        "y": 84
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFEnd"
+                        ],
+                "sections": [
+                    {
+                        "name": "Sprout Mole Masks",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pyrefly Forest - Lost Forest",
+                "map_locations": [
+                    {
+                        "map": "Pyrefly_Forest",
+                        "x": 679,
+                        "y": 410
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$PFCandle"
+                        ],
+                "sections": [
+                    {
+                        "name": "Pearl",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$basilSaved"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Letter H",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$basilSaved"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

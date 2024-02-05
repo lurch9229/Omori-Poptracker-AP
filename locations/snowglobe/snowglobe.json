@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Snowglobe Mountain",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Snowglobe Mountain Start - Left Cave",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 72,
+                        "y": 2398
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Weapon Skill",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Start - Second Level Ladder Left",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 182,
+                        "y": 2265
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Start - Second Level Ladder Right",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 246,
+                        "y": 2248
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Cyan Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Weapon Skill",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Start - Top Level",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 381,
+                        "y": 2037
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Cave 1 - Lower",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 370,
+                        "y": 1960
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Cave 1 - Upper",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 382,
+                        "y": 1860
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Climb 2 - Near Frozen Pond",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 500,
+                        "y": 1730
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Climb 2 - Tentacle",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 457,
+                        "y": 1729
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Abbi's Gift",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$abbiDefeated"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Climb 2 - Above Mari Right",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 539,
+                        "y": 1538
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Climb 2 - Near Final Ladder",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 563,
+                        "y": 1443
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Cave 2 - Near Entrance",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 387,
+                        "y": 1253
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Cave 2 - Face In The Wall",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 309,
+                        "y": 1114
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "$aubreySmash2"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Snow Angel Field - Left",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 250,
+                        "y": 907
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Snow Angel Field - Right",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 500,
+                        "y": 738
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Green Melon",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowglobe Mountain Peak - Space Ex-Husband",
+                "map_locations": [
+                    {
+                        "map": "Snowglobe_Mountain",
+                        "x": 298,
+                        "y": 30
+                    }
+                ],
+                "access_rules": 
+                        [
+                            "$SGMntAccess"
+                        ],
+                "sections": [
+                    {
+                        "name": "Fight",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            "pinkbeard"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
